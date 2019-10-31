@@ -3,7 +3,7 @@ import {Alert} from "reactstrap"
 function Header(){
     return(
         <Alert style={{marginLeft:150,marginRight:150}}>
-        Who wants to be a millionaire
+        Mitkou is the best
         </Alert>
     )
 }
